@@ -20,7 +20,7 @@ The fusion classifier acts as a decision-maker, improving generalization across 
 ## 🧠 Attack-Specific Models
 
 |        Model         |           Technique          | 
-|-------------------- -|------------------------------|
+|----------------------|------------------------------|
 | Malware Detector     |   Graph Sage + OOD Testing   |
 | Phishing Classifier  | Graph Sage + Casual sampling | 
 | DDoS Detector        | Graph Sage + Casual sampling | 
